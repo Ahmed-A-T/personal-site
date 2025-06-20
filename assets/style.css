@@ -1,0 +1,8 @@
+.center-items {
+  text-align: center;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}

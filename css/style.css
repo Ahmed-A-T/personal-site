@@ -1,18 +1,11 @@
-.row {
+.personal-img {
+  border-radius: 50%;
+}
+
+.main-row {
   height: 100vh;
 }
 
-.col {
+.text-justify {
+  text-align: justify;
 }
-.section-1 {
-}
-
-.section-2 {
-}
-.personal-pic {
-  height: 300px;
-}
-
-
-
-
